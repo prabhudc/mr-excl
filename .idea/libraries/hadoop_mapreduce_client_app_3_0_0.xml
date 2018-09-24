@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="hadoop-mapreduce-client-app-3.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/hadoop-3.0.0/share/hadoop/mapreduce/hadoop-mapreduce-client-app-3.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/hadoop-3.0.0/share/hadoop/mapreduce/hadoop-mapreduce-client-common-3.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/hadoop-3.0.0/share/hadoop/mapreduce/hadoop-mapreduce-client-core-3.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/hadoop-3.0.0/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-3.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/hadoop-3.0.0/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-plugins-3.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/hadoop-3.0.0/share/hadoop/mapreduce/hadoop-mapreduce-client-jobclient-3.0.0-tests.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/hadoop-3.0.0/share/hadoop/mapreduce/hadoop-mapreduce-client-jobclient-3.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/hadoop-3.0.0/share/hadoop/mapreduce/hadoop-mapreduce-client-nativetask-3.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/hadoop-3.0.0/share/hadoop/mapreduce/hadoop-mapreduce-client-shuffle-3.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/hadoop-3.0.0/share/hadoop/mapreduce/hadoop-mapreduce-examples-3.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
